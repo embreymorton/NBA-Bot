@@ -6,3 +6,6 @@ media_paths.py
 /other/service_account.json
 /.idea
 .DS_Store
+/media
+/.ipynb_checkpoints
+
