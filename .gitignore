@@ -5,3 +5,4 @@ media_paths.py
 /other/keys.py
 /other/service_account.json
 /.idea
+.DS_Store
