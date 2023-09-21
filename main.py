@@ -48,5 +48,3 @@ tweets_to_post = list(tweet_objects)
 if __name__ == '__main__':
     random_tweet = random.choice(tweets_to_post)
     random_tweet.tweet()
-
-test='hi'
