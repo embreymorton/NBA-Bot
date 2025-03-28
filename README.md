@@ -3,4 +3,4 @@ The NBA Twitter Bot is a Python script that posts tweets related to NBA using th
 
 This project is designed to automate the process of sharing NBA-related content on Twitter.
 
-* No longer works due to new cost restrictions on using Twitter/X API for educational purposes * 
+No longer works due to new cost restrictions on using Twitter/X API for educational purposes
